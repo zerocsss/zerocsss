@@ -2,6 +2,6 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Chang Shuai :wave:
+    I'm Shuai :wave:
   </samp>
 </p>
